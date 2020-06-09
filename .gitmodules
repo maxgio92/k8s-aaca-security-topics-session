@@ -1,0 +1,6 @@
+[submodule "demo/falco-evolution"]
+	path = demo/falco-evolution
+	url = https://github.com/falcosecurity/evolution.git
+[submodule "demo/falco-event-generator"]
+	path = demo/falco-event-generator
+	url = https://github.com/falcosecurity/event-generator.git
